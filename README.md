@@ -17,16 +17,16 @@ Como primer paso se hizo un proceso de ETL (Extracción, limpieza y carga de dat
 
 ### ETL
 Se realizo un trabajo de extraccion y tratamiento de los datos donde se tuvo en cuenta datos nulos, duplicados y conversion de formatos de los datos para posteriormente ser analizados.
-#### Link : 
+#### Link : https://github.com/alejandrohuanca21/Proyecto_Individual_2_MLOps/blob/main/ETL_y_EDA.ipynb
 
 ### EDA
 Se realizo un analisis exploratorio de datos previo donde pudimos observar como se comportaban las variables a travez de graficos estadisticos. 
-#### Link : 
+#### Link : https://github.com/alejandrohuanca21/Proyecto_Individual_2_MLOps/blob/main/ETL_y_EDA.ipynb
 
 ### Dashboard
 
 Se realizo un Dashboard interactivo en la herramienta PowerBI, done podremos observar las graficas y el comportamiento de los datos de manera interactiva y amigable para el visualizador.
-#### Link :
+#### Link : https://github.com/alejandrohuanca21/Proyecto_Individual_2_MLOps/blob/main/Accidentes%20de%20transito%20CABA.pbix
 
 ## KPIS
 Se elaborará tres KPIs propuestos con sus correpondientes graficas:
@@ -38,9 +38,11 @@ Se elaborará tres KPIs propuestos con sus correpondientes graficas:
 
     Reducción del 15% en la cantidad de accidentes mortales en avenidas en el último año, respecto al año anterior.
 
-#### Link KPIS : 
+#### Link KPIS : https://github.com/alejandrohuanca21/Proyecto_Individual_2_MLOps/blob/main/KPIS.ipynb
 
 ## Documentation
 
-[Documentacion]()
+[Dataset1](https://github.com/alejandrohuanca21/Proyecto_Individual_2_MLOps/tree/main/Datasets)
+[Dataset2](https://github.com/alejandrohuanca21/Proyecto_Individual_2_MLOps/tree/main/Datasets%202)
+[Dataset3](https://github.com/alejandrohuanca21/Proyecto_Individual_2_MLOps/tree/main/Datasets3)
 Aqui podemos encontrar el link a los datasets originales
