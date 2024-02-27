@@ -1,6 +1,6 @@
 # ANALISIS DE SINIESTROS VIALES EN CABA
 
-![siniestros](
+![siniestros](https://github.com/alejandrohuanca21/Proyecto_Individual_2_MLOps/blob/main/IMAGEN/consejos-de-seguridad-vial.jpg)
 
 ## INTRODUCCION
 Este proyecto tiene como finalidad la elaboración de un análisis de datos solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA). Para el analisis de datos se utiliza un dataset con información sobre homicidios de siniestros viales en la Ciudad de Buenos Aires, durante los años 2016-2021, que es de publico acceso en la página oficial del Gobierdo de la ciudad.
